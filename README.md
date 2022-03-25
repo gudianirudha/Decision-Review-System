@@ -1,4 +1,4 @@
-# Decision-Review-System ( Still Under Construction)
+# Decision-Review-System 
 Built using Tkinter
 ![image](https://user-images.githubusercontent.com/54411756/141693818-e9364d87-8b6e-454e-80e7-de84ef230288.png)
 
